@@ -1,6 +1,7 @@
 import torch
 import numpy as np
 import re
+import panda as pd
 import soundfile
 from openvoice import utils
 from openvoice import commons
